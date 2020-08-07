@@ -1,0 +1,43 @@
+body {
+  color: rgb(38, 161, 21);
+}
+h1 {
+  color: white;
+}
+h2,
+h3 {
+  color: green;
+}
+.black-border {
+  border: 2px solid black;
+}
+#green-background {
+  background-color: rgb(50, 231, 50);
+}
+div {
+  font: comic;
+}
+header {
+  color: aqua;
+}
+.box1 {
+  background-color: rgb(192, 224, 127);
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5;
+}
+.box2 {
+  margin: auto;
+}
+
+@media smart-phone and(max-width: 320px) {
+}
+@media (max-width: 1024px) {
+  div {
+    font-size: 1.25rem;
+    line-height: 1.5;
+  }
+}
