@@ -1,0 +1,25 @@
+body {
+  color: rgb(38, 161, 21);
+}
+h1 {
+  color: white;
+}
+h2,
+h3 {
+  color: green;
+}
+.black-border {
+  border: 2px solid black;
+}
+#green-background {
+  background-color: lightgreen;
+}
+background {
+  color: yellow;
+}
+div {
+  font: comic;
+}
+header {
+  color: aqua;
+}
