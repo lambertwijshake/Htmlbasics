@@ -1,0 +1,28 @@
+h1,
+h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  color: rgba(31, 23, 16, 0.562);
+}
+.black-border {
+  border: 1px solid black;
+  border-radius: 15px;
+}
+#color-background {
+  background-color: rgba(235, 238, 36, 0.301);
+}
+hr {
+  color: black;
+}
+main,
+footer,
+header {
+  text-align: center;
+}
+img {
+  border: 3px solid (235, 238, 36, 0.301);
+  background-color: #fcfcfc;
+  padding: 4px;
+}
