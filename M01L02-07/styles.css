@@ -1,0 +1,141 @@
+.ART1 {
+  margin: 20px 300px 0px 300px;
+}
+
+.ART3,
+.ART2 {
+  margin-top: 30px;
+}
+
+.ART4 {
+  float: left;
+  margin-left: 300px;
+  margin-right: -450px;
+  width: 20%;
+}
+
+.ikzelf {
+  margin: 10;
+}
+.brown-border {
+  border: 1px solid sienna;
+  padding-bottom: 10px;
+}
+h3 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  text-decoration-line: underline;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  font-size: 60px;
+  margin-top: -15px;
+  margin-left: 50px;
+}
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+}
+main {
+  margin-top: 60px;
+}
+
+body {
+  color: rgba(31, 23, 16, 0.562);
+}
+
+.top-border {
+  border: 1px solid black;
+  border-radius: 15px;
+  padding-left: 10px;
+  padding-right: 15px;
+}
+
+.bottom-border {
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 0px 10px;
+  margin-top: 60px;
+}
+
+.gtlink {
+  text-decoration: none;
+  color: black;
+}
+
+#color-background {
+  background-color: rgba(235, 238, 36, 0.349);
+}
+
+hr {
+  color: black;
+}
+
+main,
+footer,
+header {
+  text-align: center;
+}
+
+.top-border a {
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+.das1 {
+  margin: auto;
+}
+
+.logo1 {
+  margin-right: 10px;
+  text-decoration: none;
+  color: black;
+}
+.logo1:hover {
+  color: red;
+}
+.logo2:hover {
+  color: red;
+}
+.logo2 {
+  text-decoration: none;
+  color: black;
+}
+
+.lawlogo {
+  margin-right: 50px;
+}
+.lawlogo:hover {
+  color: red;
+}
+.splogo {
+  margin-left: 50px;
+}
+.splogo:hover {
+  color: red;
+}
+
+.kaart {
+  margin-top: 50px;
+  border: 2px solid red;
+  padding: 5px;
+}
+.loglink {
+  margin-top: 20px;
+}
+
+.gtlink:hover {
+  color: red;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+}
+.inline {
+  display: inline;
+}
